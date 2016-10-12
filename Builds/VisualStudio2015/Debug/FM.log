@@ -1,0 +1,49 @@
+﻿  MainComponent.cpp
+c:\users\pmurgai\desktop\fm\source\sine.h(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(46): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(12): warning C4100: 'x': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(16): warning C4100: 'x': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(401): warning C4100: 'step': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(401): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(401): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(401): warning C4100: 'init': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(406): warning C4100: 'step': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(406): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(406): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(406): warning C4100: 'init': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(411): warning C4100: 'step': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(411): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(411): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(411): warning C4100: 'init': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(418): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(418): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(423): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(423): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(430): warning C4100: 'val': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(430): warning C4100: 'key': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(430): warning C4100: 'zone': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(609): warning C4100: 'date_usec': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\faustreverb.h(811): warning C4100: 'samplingFreq': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(270): warning C4244: 'argument': conversion from 'juce::int64' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(276): warning C4244: 'argument': conversion from 'juce::int64' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(368): warning C4100: 'originatingComponent': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(694): warning C4100: 'e': unreferenced formal parameter
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(740): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(741): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(743): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(744): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(752): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(795): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(795): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(811): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(812): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(817): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(818): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(824): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(825): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(826): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\pmurgai\desktop\fm\source\maincomponent.cpp(830): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FM.vcxproj -> C:\Users\pmurgai\Desktop\FM\Builds\VisualStudio2015\Debug\FM.exe
+  FM.vcxproj -> Debug\\FM.pdb (Full PDB)
